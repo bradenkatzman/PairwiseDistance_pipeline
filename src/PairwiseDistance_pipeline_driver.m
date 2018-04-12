@@ -89,11 +89,11 @@ if size(cell_data_atT, 1) == size(cell_names, 1)
 end
 
 % set distance threshold
-dist_threshold = 20;
+dist_threshold = 25;
 
 % set up matrix to record distances under threshold:
 % non-pharynx nuc - pharynx nuc - distance
-pharynx_neighbors = cell(50, 3);
+pharynx_neighbors = cell(200, 3);
 pharynx_neighbors_itr = 1;
 
 % compute distance at every cell in the matrix

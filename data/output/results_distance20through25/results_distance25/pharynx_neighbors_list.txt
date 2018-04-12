@@ -1,0 +1,201 @@
+neighbor, phar nuc, distance
+MSapaaap, ABalpaapapa, 22.6108
+MSapappa, ABalpaapapa, 23.2164
+MSapppap, ABalpaapapa, 24.8445
+MSpaaaaap, MSaaaaapp, 17.2337
+MSappaaa, MSaaaaapp, 11
+MSaaaaaa, MSaaaaapaa, 20.1246
+MSapappp, MSaaaaapaa, 23.7908
+MSppappp, MSaaaaapaa, 21
+ABalapapapa, MSaaaaapaa, 14.4568
+ABalapppapa, MSaaaaapaa, 18.1108
+ABalapppapp, MSaaaaapaa, 18.7083
+ABarpapapp, MSaaaaapaa, 23.9374
+MSappppp, MSaaaapaa, 22.2542
+MSapapaa, MSaaapaap, 24.1713
+ABplaapappa, MSaaapaap, 24.5967
+Daaap, MSaaapapa, 23.7487
+Dappaa, MSaaapapa, 24.8193
+Ealaad, MSaaappp, 15.2069
+MSaaaappa, MSaaappp, 21.3776
+MSaapppaa, MSaapaaap, 21.616
+Daapa, MSaapaaaa, 22.0737
+ABplpapapaa, MSaapaaaa, 24.8395
+Capaaaa, MSaapaapp, 24.2074
+Ealaav, MSaapaapp, 16.4012
+Dapaa, MSaapaapp, 18.077
+MSpppppa, MSpaaaaaa, 23.2594
+ABarpaapap, MSpaaaaaa, 20.3224
+ABarpaappa, MSpaaaaaa, 21.2838
+MSpppaaa, MSpaaaapa, 16.9485
+ABarpapaapp, MSpaaaapa, 23.6854
+MSpaapaap, MSpaaaapp, 23.2164
+MSpppppp, MSpaaappa, 22.0454
+Dpppaa, MSpaaappp, 23.2164
+Cppaaaa, MSpapaapa, 24.3772
+Dpaaa, MSpapaapa, 19.2094
+Dppaa, MSpapaapa, 14.4914
+MSpapapap, MSpapaapa, 23.2648
+ABprapaaapp, MSpapaapa, 23.8537
+Earaa, MSpaapapp, 19.9499
+Dpppap, MSpaapapp, 22.655
+Daaaa, MSaapaapa, 21.36
+Ealpa, MSaappap, 15.6525
+ABarapappap, MSpapaaaa, 19.105
+ABprpapapaa, MSpapaaaa, 18.0278
+MSpppapp, MSpapaaaa, 20.3286
+MSpapppaa, MSpapaaap, 16.2865
+MSppapaa, MSpapappa, 19.7231
+MSapaaaa, ABalpaaaaaa, 17.2047
+ABalpaappap, ABalpaaaaaa, 23.4521
+ABaraaaapaa, ABalpaaaaaa, 22.561
+ABaraaappap, ABalpaaaaaa, 23.1517
+ABplpaaaaaa, ABalpaaaaaa, 21.1246
+ABplpaapaaa, ABalpaaapaa, 24.6982
+ABalppppaad, ABalpaaapaa, 20.8327
+ABalaaapalr, ABalpaapaaa, 22.0454
+ABalapaaaa, ABalpaapaaa, 20.1494
+ABarapapapa, ABalpappapa, 14.4914
+ABplpappaaa, ABalpappapa, 18.9737
+ABplpapaaaa, ABalpappppa, 23.3452
+ABalpaappaa, ABaraaaaaaa, 22.4109
+ABaraaappaa, ABaraaaaaaa, 21.8689
+MSppaaaa, ABaraaaaapa, 19.2094
+ABarappaaaa, ABaraaaaapa, 24.2899
+ABalaaapprl, ABaraaaapap, 24.779
+ABalapppaaa, ABaraaaapap, 24.3721
+ABalaapaaal, ABaraaapaaa, 24.1039
+ABpraaapapa, ABaraaapaaa, 24.1661
+MSppaaap, ABaraaapaap, 22.1133
+MSapppaa, ABaraapappa, 18.4459
+ABplaapapaa, ABaraapappa, 23.8956
+MSppppap, ABaraappapp, 14.2478
+ABprapaaaap, ABaraappapp, 23.4521
+ABpraapapaa, ABaraapppaa, 21.6102
+Dpaap, ABaraapppap, 16.5605
+MSppppaa, ABaraappppa, 19.9499
+ABpraaapaad, ABarapaapaa, 24.6779
+ABpraaaappp, ABarapaapap, 24.7841
+ABpraapappa, ABarapaapap, 19.9311
+ABpraaappap, ABarapaappa, 23.6696
+ABpraapapap, ABarapaappa, 24.985
+MSppapap, ABarapapaap, 22.891
+ABpraaappaa, ABarapapaap, 22.1416
+ABprppaappa, ABarapapapp, 22.561
+ABprpapappa, ABarapapapp, 24.454
+MSpapppap, MSpapappp, 21.2368
+MSappppa, MSaaapaaa, 21.3073
+ABplppapaap, MSaapappp, 24.5967
+ABplppappap, MSaapappp, 24.779
+MSapapap, ABalpappaap, 19.3391
+ABalpppppaa, ABalpappaap, 22.1133
+ABalppapppa, ABalpaaaapa, 24.8847
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
+, , 
